@@ -1,1 +1,11 @@
-[{ "trait_type": "Capacity", "value": 100 }]
+{
+  "name": "Reverse Capacity Cell #100",
+  "description": "Testnet mock NFT with capacity 100.",
+  "image": "https://placehold.co/512x512/png?text=Capacity+100",
+  "attributes": [
+    {
+      "trait_type": "Capacity",
+      "value": 100
+    }
+  ]
+}
